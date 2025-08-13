@@ -1,6 +1,8 @@
-streamlit
-torch
-opacus
-pandas
-scikit-learn
-numpy
+streamlit==1.48.1
+torch==2.8.0
+opacus==1.4.0
+pandas==2.2.0
+scikit-learn==1.4.0
+numpy==1.26.0
+markdown-it-py==4.0.0
+rich==13.7.1
