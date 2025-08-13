@@ -1,4 +1,0 @@
-[server]
-port = 8501
-maxUploadSize = 1000
-enableCORS = false
