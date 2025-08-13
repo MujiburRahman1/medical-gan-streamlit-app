@@ -2,6 +2,3 @@
 port = 8501
 maxUploadSize = 1000
 enableCORS = false
-
-[theme]
-base = "light"
